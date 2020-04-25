@@ -1,8 +1,8 @@
-<h1>Single Page Application</h1>
+<h1>Single Page Application ( Laravel & Vue) </h1>
 <blockquote>
 A Pet Project inteded for application purposes only by the author, 
 created with a limited scope and hastily put together while learning the necessary knowledge about the technology that encompasses this application.
-<hr/>
+<br/>
 Source / Technology Stack :
 <ul>
   <li><a href="https://laravel.com/">Laravel Framework (PHP)</a> 
